@@ -1,0 +1,2 @@
+This is file-2 created in local repo
+line2 added 
